@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+
+#database credentials
 src/Firebase.js
 
 # testing
@@ -22,3 +24,8 @@ src/Firebase.js
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.firebase/
+.firebaserc
+.github/
+firebase.json
