@@ -45,13 +45,13 @@ function Sidebar() {
         </div>
         <CreateIcon />
       </div>
-      {/* <SidebarOption Icon={InsertCommentIcon} title="Threads" /> */}
+      <SidebarOption Icon={InsertCommentIcon} title="Threads" />
       <SidebarOption Icon={InboxIcon} title="Mention & Reactions" />
-      {/* <SidebarOption Icon={DraftsIcon} title="Saved Items" /> */}
+      <SidebarOption Icon={DraftsIcon} title="Saved Items" />
       <SidebarOption Icon={BookmarkBorderIcon} title="Channel Browser" />
       <SidebarOption Icon={PeopleAltIcon} title="People & User groups" />
       <SidebarOption Icon={AppsIcon} title="Apps" />
-      {/* <SidebarOption Icon={FileCopyIcon} title="File Browser" /> */}
+      <SidebarOption Icon={FileCopyIcon} title="File Browser" />
       <SidebarOption Icon={ExpandLessIcon} title="Show Less" />
       <hr />
       <SidebarOption Icon={ExpandMoreIcon} title="Channels" />
