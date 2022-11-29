@@ -25,9 +25,7 @@ function App() {
                 <Route
                   path="/"
                   element={
-                    <h1>
-                      Welcome!! Click on one of the channels on the bottom left.
-                    </h1>
+                    <h1>Welcome!! Click on one of the channels on the left.</h1>
                   }
                 />
               </Routes>
